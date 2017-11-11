@@ -1,16 +1,14 @@
 <html>
-<body>
-
-</body>
-</html>
-<table >
-  <tr>
-    <th>Name</th>
-    <th colspan="2">Telephone</th>
-  </tr>
-  <tr>
-    <td>Bill Gates</td>
-    <td>55577854</td>
-  </tr>
-</table>
+<tr align="">
+    <td border="0">
+        <p>Account</p><hr>
+        <ul>
+            <a href="#"><li>Dashboard</li></a>
+            <a href="#"><li>Viewprofile</li></a>
+            <a href="#"><li>Editprofile</li></a>
+            <a href="#"><li>Change Profile Picture</li></a>
+            <a href="#"><li>Change Password</li></a>
+            <a href="#"><li>Logout</li></a>
+        </ul>
+    </td>
 </html>
