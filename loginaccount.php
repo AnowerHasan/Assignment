@@ -15,7 +15,7 @@
 		<td>
 			<h2>Welcome bob</h2>
 		</td>
-		
+		<input type="hidden">
 	</tr>
 
 	
