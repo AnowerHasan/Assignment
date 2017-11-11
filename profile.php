@@ -24,7 +24,7 @@
                         <label><?php $date = $_SESSION['date'];
                             echo "$date";?>
                         </label><br><br>
-                        <a href="#">Edit Profile</a>
+                        <a href="editprofile.php">Edit Profile</a>
                     </fieldset>
                 </td>
 

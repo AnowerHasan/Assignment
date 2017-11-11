@@ -11,7 +11,7 @@
 				<td width="50%" colspan="2">
 					<div align="left">XCompany</div>
 					<div align="right">
-						Login as<a href="#">
+						Login as<a href="profile.php">
 							<?php 
 							session_start();
 							echo $_SESSION['username']; 
